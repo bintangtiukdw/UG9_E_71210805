@@ -1,0 +1,7 @@
+print("3_E_71210805")
+B1 = (input("\nMasukkan daftar belanja 1: "))
+B2 = (input("Masukkan daftar belanja 2: "))
+T1 = (input("Tambahkan data ke daftar belanja 1: "))
+T2 = (input("Tambahkan data ke daftar belanja 2: "))
+print("\nDaftar belanja 1 adalah " + B1 + "," + B2)
+print("Daftar belanja 2 adalah " + T1 + "," + T2)
